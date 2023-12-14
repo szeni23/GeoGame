@@ -6,3 +6,4 @@ streamlit==1.25.0
 streamlit_folium==0.15.0
 streamlit_js_eval==0.1.5
 fuzzywuzzy==0.18.0
+matplotlib==3.8.2
